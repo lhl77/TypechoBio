@@ -51,3 +51,4 @@ git clone https://github.com/lhl77/TypechoBio.git TypechoBio
 |![](https://i.see.you/2026/05/26/zS4h/4e165b75c514a578bcdecbb98c62b94e.jpg)|![](https://i.see.you/2026/05/26/0eDl/0d244d759164bb3c656f766a320fee4c.jpg)|![](https://i.see.you/2026/05/26/oS1o/191b736bc7d0edded7e871e56e58f948.jpg)|
 
 ### 更多主题正在开发中，投稿请发[issue](https://github.com/lhl77/TypechoBio/issues)
+主题开发&适配文档详见<a href="https://blog.lhl.one/artical/1263.html">文档</a>
