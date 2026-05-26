@@ -52,3 +52,28 @@ git clone https://github.com/lhl77/TypechoBio.git TypechoBio
 
 ### 更多主题正在开发中，投稿请发[issue](https://github.com/lhl77/TypechoBio/issues)
 主题开发&适配文档详见<a href="https://blog.lhl.one/artical/1263.html">文档</a>
+
+--- 
+## 捐助
+
+| <img src="https://i.see.you/2026/03/05/yc0T/4ca32aa36972b03bd14c1e480972db55.jpg" width="50%" /> |
+| ------------------------------------------------------------ |
+| <p align="center">微信赞赏码</p>                             |
+备注：[AdminBeautify]+[昵称]+[博客地址/Github地址]可将您的捐赠记录显示在**插件设置**-**关于插件**-**鸣谢** 中
+
+--- 
+## Stars
+
+<a href="https://www.star-history.com/?repos=lhl77%2FTypecho-Plugin-AdminBeautify&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=lhl77/Typecho-Plugin-AdminBeautify&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=lhl77/Typecho-Plugin-AdminBeautify&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=lhl77/Typecho-Plugin-AdminBeautify&type=date&legend=top-left" />
+ </picture>
+</a>
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/lhl77">LHL</a>
+</p>
