@@ -1,0 +1,62 @@
+{
+  "dir": "default",
+  "name": "默认欢迎页",
+  "version": "1.0.0",
+  "description": "默认欢迎页。",
+  "fields": [
+    {
+      "key": "hero_title",
+      "label": "主标题",
+      "type": "text",
+      "default": "TypechoBio 独立域名页面",
+      "description": "页面首屏标题"
+    },
+    {
+      "key": "hero_subtitle",
+      "label": "副标题",
+      "type": "text",
+      "default": "欢迎使用 TypechoBio。",
+      "description": "显示在主标题下方"
+    },
+    {
+      "key": "show_comments",
+      "label": "显示评论区",
+      "type": "checkbox",
+      "default": "1",
+      "description": "关闭后整个评论区模块不渲染"
+    },
+    {
+      "key": "comment_title",
+      "label": "评论区标题",
+      "type": "text",
+      "default": "评论区",
+      "description": "评论模块标题"
+    },
+    {
+      "key": "show_posts",
+      "label": "显示最近文章",
+      "type": "checkbox",
+      "default": "0",
+      "description": "是否渲染最近文章列表"
+    },
+    {
+      "key": "posts_title",
+      "label": "文章模块标题",
+      "type": "text",
+      "default": "最近文章",
+      "description": "文章列表模块标题"
+    },
+    {
+      "key": "accent_color",
+      "label": "强调色",
+      "type": "select",
+      "default": "teal",
+      "description": "用于链接及重点信息颜色",
+      "options": {
+        "teal": "青绿",
+        "blue": "蓝色",
+        "orange": "橙色"
+      }
+    }
+  ]
+}
