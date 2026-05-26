@@ -59,7 +59,10 @@ git clone https://github.com/lhl77/TypechoBio.git TypechoBio
 | <img src="https://i.see.you/2026/03/05/yc0T/4ca32aa36972b03bd14c1e480972db55.jpg" width="50%" /> |
 | ------------------------------------------------------------ |
 | <p align="center">微信赞赏码</p>                             |
-备注：[AdminBeautify]+[昵称]+[博客地址/Github地址]可将您的捐赠记录显示在**插件设置**-**关于插件**-**鸣谢** 中
+备注：[TypechoBio]+[昵称]+[博客地址/Github地址]可将您的捐赠记录显示在 **下方**
+
+## 鸣谢
+感谢各位的支持，这是我坚持下去的最大动力。
 
 --- 
 ## Stars
