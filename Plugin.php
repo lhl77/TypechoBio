@@ -1,7 +1,7 @@
 <?php
 
 /**
- * TypechoBio 多域名独立页面（个人主页）插件，复用Typecho的评论系统。
+ * TypechoBio 个人主页插件，支持指定域名，复用Typecho的评论系统。
  *
  * @package TypechoBio
  * @author lhl
